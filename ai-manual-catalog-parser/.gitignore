@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+
+data/catalog.db
+data/output/
+.chroma/
+
+.DS_Store
+.vscode/
